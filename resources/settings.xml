@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
     <category label="30000">
-        <setting id="emulationstation_path" type="executable" label="Path to EmulationStation executable" default="/usr/bin/emulationstation" />
+        <setting id="cake_invaders_path" type="executable" label="Path to Cake Invaders" default="/opt/cake-invaders/cake-invaders" />
     </category>
 </settings>
